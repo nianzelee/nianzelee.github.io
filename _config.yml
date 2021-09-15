@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nian-Ze Lee"
+title                    : "Nian-Ze Lee's Website"
 title_separator          : "-"
 name                     : &name "Nian-Ze Lee"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nian-Ze Lee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher"
   location         : "Taipei"
   employer         : "LMU Munich"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
