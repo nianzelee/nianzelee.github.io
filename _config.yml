@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nian-Ze Lee's Personal Website"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Nian-Ze Lee"
 description              : &description "personal description"
