@@ -43,6 +43,21 @@ For a complete list, please click the `Publications` button on the top menu.
 - [Stability analysis for safety of automotive multi-product lines: A search-based approach, GECCO](https://doi.org/10.1145/3321707.3321755)
   - This work was in collaboration with my colleagues at NII.
 
+## Software Projects
+
+I am the primary maintainer of the following projects:
+
+- [`reSSAT/erSSAT`](https://github.com/NTU-ALComLab/ssatABC): solvers for the random-exist/exist-random fragments of stochastic Boolean satisfiability
+- [`ssat-benchmarks`](https://github.com/NTU-ALComLab/ssat-benchmarks): a collection of SSAT formulas for benchmarking
+- [`threABC`](https://github.com/nianzelee/threABC): collapse operation and efficient verification of threshold logic in a logic synthesis platform [`ABC`](https://github.com/berkeley-abc/abc)
+
+I participate in the following projects:
+
+- [`CPAchecker`](https://gitlab.com/sosy-lab/software/cpachecker): a configurable software-verification platform
+  - I contribute to the software adoption of McMillan's [interpolation-based model-checking algorithm](https://link.springer.com/chapter/10.1007/978-3-540-45069-6_1)
+- [`BenchExec`](https://github.com/sosy-lab/benchexec): a reliable and precise benchmarking framework
+  - I contribute to the incorporation of SAT solver [Kissat](https://github.com/arminbiere/kissat) and ABC
+
 ## Contact
 
 Please send me encrypted emails!
