@@ -19,7 +19,10 @@ I obtained a Ph.D. degree in Electronics Engineering from National Taiwan Univer
 My research directions are the validation and optimization of computational systems, with a focus on applying formal methods.
 
 I enjoy doing research and collaborating with people from different countries.
-During my doctoral study, I was also a research intern at [IBM Thomas J. Watson Research Center](https://www.research.ibm.com/labs/watson/) (2016.07-2016.10), an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/) (2018.09-2019.02), and a visiting student at [LMU Munich](https://www.lmu.de/en/) (2019.09-2020.08).
+During my doctoral study, I was also
+a research intern at [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/) (2016.07-2016.10),
+an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/) (2018.09-2019.02),
+and a visiting student at [LMU Munich](https://www.lmu.de/en/) (2019.09-2020.08).
 
 If you want to know more about me, please take a look at my [CV](../files/Nian-Ze.Lee.CV.pdf).
 
@@ -44,7 +47,7 @@ For a complete list, please click the `Publications` button on the top menu.
 ### 2019
 
 - [Stability analysis for safety of automotive multi-product lines: A search-based approach, GECCO](https://doi.org/10.1145/3321707.3321755)
-  - This work was in collaboration with Dr. Paolo Arcaini and Prof. Fuyuki Ishikawa from NII and Dr. Shaukat Ali from Simula Research Lab.
+  - This work was in collaboration with Dr. Paolo Arcaini, Prof. Fuyuki Ishikawa from NII, and Dr. Shaukat Ali from Simula Research Laboratory.
 
 ## Software Projects
 
@@ -57,9 +60,9 @@ I am the primary maintainer of the following projects:
 I participate in the following projects:
 
 - [`CPAchecker`](https://gitlab.com/sosy-lab/software/cpachecker): a configurable software-verification platform
-  - I contribute to adopting McMillan's [interpolation-based model-checking algorithm](https://link.springer.com/chapter/10.1007/978-3-540-45069-6_1) to software
+  - I contribute to adopting McMillan's [interpolation-based model-checking algorithm](https://link.springer.com/chapter/10.1007/978-3-540-45069-6_1) to software.
 - [`BenchExec`](https://github.com/sosy-lab/benchexec): a reliable and precise benchmarking framework
-  - I contribute to incorporating SAT solver [Kissat](https://github.com/arminbiere/kissat) and ABC
+  - I contribute to incorporating SAT solver [Kissat](https://github.com/arminbiere/kissat) and ABC.
 
 ## Contact
 
