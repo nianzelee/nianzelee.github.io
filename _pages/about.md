@@ -30,7 +30,7 @@ For a complete list, please click the `Publications` button on the top menu.
 
 ### 2021
 
-- [Stochastic Boolean satisfiability: Decision procedures, generalization, and applications, Doctoral Dissertation](http://dx.doi.org/10.6342%2fNTU202101397)
+- [Stochastic Boolean satisfiability: Decision procedures, generalization, and applications, doctoral dissertation](http://dx.doi.org/10.6342%2fNTU202101397)
   - An author copy of the dissertation can be found [here](../files/Nian-Ze.Lee.Dissertation-secure.pdf).
   - A supplementary [reproduction package](https://doi.org/10.5281/zenodo.5084147) is published on Zenodo.
 - [Dependency stochastic Boolean satisfiability: A logical formalism for NEXPTIME decision problems with uncertainty, AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16506)
@@ -39,9 +39,12 @@ For a complete list, please click the `Publications` button on the top menu.
 
 - [Constraint solving for synthesis and verification of threshold logic circuits, Trans. CAD](https://doi.org/10.1109/TCAD.2020.3015441)
 - [Engineering change order for combinational and sequential design rectification, DATE](https://doi.org/10.23919/DATE48585.2020.9116504)
-  - This work was in collaboration with Dr. Victor N. Kravets, my mentor at IBM Research.
+  - This work was in collaboration with Dr. Victor N. Kravets from IBM Research.
+
+### 2019
+
 - [Stability analysis for safety of automotive multi-product lines: A search-based approach, GECCO](https://doi.org/10.1145/3321707.3321755)
-  - This work was in collaboration with my colleagues at NII.
+  - This work was in collaboration with Dr. Paolo Arcaini and Prof. Fuyuki Ishikawa from NII and Dr. Shaukat Ali from Simula Research Lab.
 
 ## Software Projects
 
