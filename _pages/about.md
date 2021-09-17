@@ -10,7 +10,7 @@ redirect_from:
 
 ## News
 
-- 2021-06-30: I became a member of the [Phi Tau Phi](http://www.phitauphi.org.tw/) scholastic honor society.
+- 2021-06-01: I became a member of the [Phi Tau Phi](http://www.phitauphi.org.tw/) scholastic honor society.
 
 ## Short Biography
 
