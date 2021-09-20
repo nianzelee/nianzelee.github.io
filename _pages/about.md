@@ -66,6 +66,8 @@ I participate in the following projects:
 
 ## Contact
 
+My email address: nian-ze.lee@sosy.ifi.lmu.de
+
 Please send me encrypted emails!
 
 My [GPG key](https://keys.openpgp.org/vks/v1/by-fingerprint/6211DD38D7BD0167253BB4F8EBA3A3F7F4F9BBEC) can be downloaded from the Keys OpenPGP server.
