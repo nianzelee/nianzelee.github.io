@@ -10,19 +10,22 @@ redirect_from:
 
 ## News
 
-- 2021-06-01: I became a member of the [Phi Tau Phi](http://www.phitauphi.org.tw/) scholastic honor society.
+- December, 2022: Our paper _Bridging Hardware and Software Analysis with 2C: A Word-Level-Circuit-to-C Translator_ is accepted at [TACAS 2023](https://www.etaps.org/2023/conferences/).
+- December, 2021: My dissertation wins the Lam Research Ph.D. Thesis Award at NTU.
+- June, 2021: I become a member of the [Phi Tau Phi](http://www.phitauphi.org.tw/) scholastic honor society.
 
 ## Short Biography
 
 I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
 I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
-My research directions are the validation and optimization of computational systems, with a focus on applying formal methods.
+My research directions are the analysis and optimization of computational systems, with a focus on applying formal methods.
 
 I enjoy doing research and collaborating with people from different countries.
-During my doctoral study, I was also
-a research intern at [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/) (2016.07-2016.10),
-an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/) (2018.09-2019.02),
-and a visiting student at [LMU Munich](https://www.lmu.de/en/) (2019.09-2020.08).
+During my doctoral study,
+I was a research intern at
+[IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/) (July - October 2016),
+an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/) (September 2018 - February 2019),
+and a visiting student at [LMU Munich](https://www.lmu.de/en/) (September 2019 - August 2020).
 
 If you want to know more about me, please take a look at my [CV](../files/Nian-Ze.Lee.CV.pdf).
 
@@ -31,11 +34,26 @@ If you want to know more about me, please take a look at my [CV](../files/Nian-Z
 The following are some of my recent publications.
 For a complete list, please click the `Publications` button on the top menu.
 
+### 2023
+
+- [Bridging Hardware and Software Analysis with Btor2C: A Word-Level-Circuit-to-C Translator](https://www.sosy-lab.org/research/btor2c/Bridging_Hardware_and_Software_Analysis_with_Btor2C.pdf)
+  - Translating word-level [Btor2](https://doi.org/10.1007/978-3-319-96145-3_32) circuits to C programs and applying software analysis
+  - A [reproduction package](https://doi.org/10.5281/zenodo.7551707) for the conducted experiments
+  - A supplementary [webpage](https://www.sosy-lab.org/research/btor2c/) for browsing the experimental results
+  - To appear at [TACAS 2023](https://www.etaps.org/2023/conferences/)
+
+### 2022
+
+- [Interpolation and SAT-Based Model Checking Revisited: Adoption to Software Verification](https://arxiv.org/abs/2208.05046)
+  - Adoption of [McMillan's 2003 algorithm for interpolation-based model checking](https://doi.org/10.1007/978-3-540-45069-6_1) to software verification
+  - A [reproduction package](https://doi.org/10.5281/zenodo.6700515) for the conducted experiments
+  - A supplementary [webpage](https://www.sosy-lab.org/research/cpa-imc/) for browsing the experimental results
+
 ### 2021
 
 - [Stochastic Boolean satisfiability: Decision procedures, generalization, and applications, doctoral dissertation](http://dx.doi.org/10.6342%2fNTU202101397)
-  - An author copy of the dissertation can be found [here](../files/Nian-Ze.Lee.Dissertation-secure.pdf).
-  - A supplementary [reproduction package](https://doi.org/10.5281/zenodo.5084147) is published on Zenodo.
+  - An [author copy](../files/Nian-Ze.Lee.Dissertation-secure.pdf) of the dissertation
+  - A supplementary [reproduction package](https://doi.org/10.5281/zenodo.5084147) for the evaluation
 - [Dependency stochastic Boolean satisfiability: A logical formalism for NEXPTIME decision problems with uncertainty, AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16506)
 
 ### 2020
@@ -53,9 +71,10 @@ For a complete list, please click the `Publications` button on the top menu.
 
 I am the primary maintainer of the following projects:
 
-- [`reSSAT/erSSAT`](https://github.com/NTU-ALComLab/ssatABC): solvers for the random-exist/exist-random quantified fragments of stochastic Boolean satisfiability
+- [`Btor2C`](https://gitlab.com/sosy-lab/software/btor2c): a translator from the word-level modeling language Btor2 to the programming language C
+- [`reSSAT` and `erSSAT`](https://github.com/NTU-ALComLab/ssatABC): solvers for the random-exist/exist-random quantified fragments of stochastic Boolean satisfiability
 - [`ssat-benchmarks`](https://github.com/NTU-ALComLab/ssat-benchmarks): a collection of stochastic Boolean satisfiability formulas for benchmarking (**Contributions Welcome!**)
-- [`threABC`](https://github.com/nianzelee/threABC): collapse operation and efficient verification of threshold logic in a synthesis/verification tool [`ABC`](https://github.com/berkeley-abc/abc)
+- [`TLCollapseVerify`](https://github.com/NTU-ALComLab/TLCollapseVerify): collapse operation and efficient verification of threshold logic in a synthesis/verification tool [`ABC`](https://github.com/berkeley-abc/abc)
 
 I participate in the following projects:
 
