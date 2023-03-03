@@ -10,7 +10,7 @@ redirect_from:
 
 ## News
 
-- 2022-12-23: Our paper _Bridging Hardware and Software Analysis with Btor2C: A Word-Level-Circuit-to-C Translator_ is accepted at [TACAS 2023](https://www.etaps.org/2023/conferences/)
+- 2022-12-23: Our paper _Bridging hardware and software analysis with Btor2C: A word-level-circuit-to-C translator_ is accepted at [TACAS 2023](https://www.etaps.org/2023/conferences/)
 - 2021-12-17: My dissertation wins the Lam Research Ph.D. Thesis Award at NTU
 - 2021-06-01: I become a member of the [Phi Tau Phi](http://www.phitauphi.org.tw/) scholastic honor society
 
@@ -24,9 +24,9 @@ I enjoy doing research and collaborating with people from different countries.
 During my doctoral study, I was
 
 - a research intern at
-  [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/) (July - October 2016),
-- an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/) (September 2018 - February 2019), and
-- a visiting student at [LMU Munich](https://www.lmu.de/en/) (September 2019 - August 2020).
+  [IBM T. J. Watson Research Center, New York, U.S.A.](https://www.research.ibm.com/labs/watson/) (July - October 2016),
+- an internship student at [National Institute of Informatics, Tokyo, Japan](https://www.nii.ac.jp/en/) (September 2018 - February 2019), and
+- a visiting student at [LMU Munich, Germany](https://www.lmu.de/en/) (September 2019 - August 2020).
 
 If you want to know more about me, please take a look at my [CV](../files/Nian-Ze.Lee.CV.pdf).
 
