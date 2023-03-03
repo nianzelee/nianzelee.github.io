@@ -9,5 +9,5 @@ location: "Munich, Germany"
 ---
 
 This lecture is instructed by Prof. Gidon Ernst.
-As a teaching assistant, I am responsible giving weekly tutorials
+As a teaching assistant, I am responsible for giving weekly tutorials
 to help students on exercise sheets.
