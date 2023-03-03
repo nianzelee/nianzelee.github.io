@@ -1,17 +1,10 @@
 ---
-title: "Journal/Conference Referee"
+title: "Conference Referee"
 collection: professional
-permalink: /professional/referee
+permalink: /professional/conference-referee
 ---
 
-I review for the following journals:
-
-- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-- IEEE Transactions on Very Large Scale Integration (VLSI) Systems
-- ACM Transactions on Design Automation of Electronic Systems
-- Formal Methods in System Design, Springer
-
-and conferences:
+I have been a reviewer for the following conferences:
 
 - AAAI Conf. on Artificial Intelligence (AAAI)
 - Design Automation Conference (DAC)
