@@ -5,7 +5,6 @@ permalink: /professional/conference-referee
 ---
 
 I have been a reviewer for the following conferences:
-
 AAAI Conf. on Artificial Intelligence (AAAI)
 Design Automation Conference (DAC)
 Int. Conf. on Computer-Aided Design (ICCAD)
