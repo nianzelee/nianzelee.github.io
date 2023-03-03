@@ -6,7 +6,7 @@ The files changed for customization:
 
 - [`_config.yml`](./_config.yml): website configuration
 - [`_data/navigation.yml`](./_data/navigation.yml): top menu
-- [`_pages/about.md`](./_pages/about.md): home page
+- [`_pages`](./_pages/about.md): [home page](./_pages/about.md) and automatically generated summary pages, such as [publications](./_pages/publications.md) and [teaching](./_pages/teaching.html)
 - [`images/`](./images/): upload my photo
 - [`files/`](./files/): upload my dissertation
 - [`_publications/publications.tsv`](./_publications/publications.tsv): edit this file and run the python script [`publications.py`](./markdown_generator/publications.py) in folder [`markdown_generator/`](./markdown_generator/) to generate the Markdown files for publications
