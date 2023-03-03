@@ -24,9 +24,9 @@ I enjoy doing research and collaborating with people from different countries.
 During my doctoral study, I was
 
 - a research intern at
-  [IBM T. J. Watson Research Center, New York, U.S.A.](https://www.research.ibm.com/labs/watson/) (July - October 2016),
-- an internship student at [National Institute of Informatics, Tokyo, Japan](https://www.nii.ac.jp/en/) (September 2018 - February 2019), and
-- a visiting student at [LMU Munich, Germany](https://www.lmu.de/en/) (September 2019 - August 2020).
+  [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/), New York, U.S.A. (July - October 2016),
+- an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/), Tokyo, Japan (September 2018 - February 2019), and
+- a visiting student at [LMU Munich](https://www.lmu.de/en/), Germany (September 2019 - August 2020).
 
 If you want to know more about me, please take a look at my [CV](../files/Nian-Ze.Lee.CV.pdf).
 
