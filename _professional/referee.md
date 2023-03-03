@@ -1,7 +1,7 @@
 ---
 title: "Journal/Conference Referee"
-collection: service
-permalink: /service/referee
+collection: professional
+permalink: /professional/referee
 ---
 
 I review for the following journals:

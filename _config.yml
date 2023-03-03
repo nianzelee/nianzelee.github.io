@@ -175,7 +175,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  service:
+  professional:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -223,10 +223,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _service
+  # _professional
   - scope:
       path: ""
-      type: service
+      type: professional
     values:
       layout: single
       author_profile: true
