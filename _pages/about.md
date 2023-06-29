@@ -18,17 +18,16 @@ redirect_from:
 
 I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
 I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
-My research directions are the analysis and optimization of computational systems, with a focus on applying formal methods.
+My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
 
 I enjoy doing research and collaborating with people from different countries.
 During my doctoral study, I was
 
-- a research intern at
-  [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/), New York, U.S.A. (July - October 2016),
+- a visiting student on DAAD scholarship at [LMU Munich](https://www.lmu.de/en/), Germany (September 2019 - August 2020),
 - an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/), Tokyo, Japan (September 2018 - February 2019), and
-- a visiting student at [LMU Munich](https://www.lmu.de/en/), Germany (September 2019 - August 2020).
+- a research intern at [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/), New York, U.S.A. (July - October 2016).
 
-If you want to know more about me, please take a look at my [CV](../files/Nian-Ze.Lee.CV.pdf).
+To know more about me, please take a look at my [CV](../files/Nian-Ze.Lee.CV.pdf).
 
 ## Recent Publications
 
@@ -37,35 +36,34 @@ For a complete list, please click the `Publications` button on the top menu.
 
 ### 2023
 
-- [Bridging hardware and software analysis with Btor2C: A word-level-circuit-to-C translator](https://www.sosy-lab.org/research/btor2c/Bridging_Hardware_and_Software_Analysis_with_Btor2C.pdf)
+- [Bridging hardware and software analysis with Btor2C: A word-level-circuit-to-C translator](https://doi.org/10.1007/978-3-031-30820-8_12) (TACAS)
   - Translating word-level [Btor2](https://doi.org/10.1007/978-3-319-96145-3_32) circuits to C programs and applying software analysis
+  - A supplementary [webpage](https://www.sosy-lab.org/research/btor2c/) for an author copy of the paper and for browsing the experimental results
   - A [reproduction package](https://doi.org/10.5281/zenodo.7551707) for the conducted experiments
-  - A supplementary [webpage](https://www.sosy-lab.org/research/btor2c/) for browsing the experimental results
-  - To appear at [TACAS 2023](https://www.etaps.org/2023/conferences/)
 
 ### 2022
 
 - [Interpolation and SAT-based model checking revisited: Adoption to software verification](https://arxiv.org/abs/2208.05046)
   - Adoption of [McMillan's 2003 algorithm for interpolation-based model checking](https://doi.org/10.1007/978-3-540-45069-6_1) to software verification
-  - A [reproduction package](https://doi.org/10.5281/zenodo.6700515) for the conducted experiments
   - A supplementary [webpage](https://www.sosy-lab.org/research/cpa-imc/) for browsing the experimental results
+  - A [reproduction package](https://doi.org/10.5281/zenodo.6700515) for the conducted experiments
 
 ### 2021
 
-- [Stochastic Boolean satisfiability: Decision procedures, generalization, and applications, doctoral dissertation](http://dx.doi.org/10.6342%2fNTU202101397)
+- [Stochastic Boolean satisfiability: Decision procedures, generalization, and applications](http://dx.doi.org/10.6342%2fNTU202101397) (Doctoral dissertation)
   - An [author copy](../files/Nian-Ze.Lee.Dissertation-secure.pdf) of the dissertation
   - A supplementary [reproduction package](https://doi.org/10.5281/zenodo.5084147) for the evaluation
-- [Dependency stochastic Boolean satisfiability: A logical formalism for NEXPTIME decision problems with uncertainty, AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16506)
+- [Dependency stochastic Boolean satisfiability: A logical formalism for NEXPTIME decision problems with uncertainty](https://ojs.aaai.org/index.php/AAAI/article/view/16506) (AAAI)
 
 ### 2020
 
-- [Constraint solving for synthesis and verification of threshold logic circuits, Trans. CAD](https://doi.org/10.1109/TCAD.2020.3015441)
-- [Engineering change order for combinational and sequential design rectification, DATE](https://doi.org/10.23919/DATE48585.2020.9116504)
+- [Constraint solving for synthesis and verification of threshold logic circuits](https://doi.org/10.1109/TCAD.2020.3015441) (IEEE Trans. CAD)
+- [Engineering change order for combinational and sequential design rectification](https://doi.org/10.23919/DATE48585.2020.9116504) (DATE)
   - Collaboration with Dr. Victor N. Kravets from IBM Research
 
 ### 2019
 
-- [Stability analysis for safety of automotive multi-product lines: A search-based approach, GECCO](https://doi.org/10.1145/3321707.3321755)
+- [Stability analysis for safety of automotive multi-product lines: A search-based approach](https://doi.org/10.1145/3321707.3321755) (GECCO)
   - Collaboration with Dr. Paolo Arcaini and Prof. Fuyuki Ishikawa from NII, and Dr. Shaukat Ali from Simula Research Laboratory
 
 ## Software Projects
