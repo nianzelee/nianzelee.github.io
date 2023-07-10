@@ -10,9 +10,9 @@ redirect_from:
 
 ## News
 
+- 2023-07-06: Our paper _Interpolation and SAT-based model checking revisited: Adoption to software verification_ is accepted by [_Journal of Automated Reasoning_](https://www.springer.com/journal/10817)
+- 2023-07-06: Our paper _CPA-DF: A tool for configurable interval analysis to boost program verification_ is accepted at [ASE 2023](https://conf.researchr.org/home/ase-2023)
 - 2022-12-23: Our paper _Bridging hardware and software analysis with Btor2C: A word-level-circuit-to-C translator_ is accepted at [TACAS 2023](https://www.etaps.org/2023/conferences/)
-- 2021-12-17: My dissertation wins the Lam Research Ph.D. Thesis Award at NTU
-- 2021-06-01: I become a member of the [Phi Tau Phi](http://www.phitauphi.org.tw/) scholastic honor society
 
 ## Short Biography
 
