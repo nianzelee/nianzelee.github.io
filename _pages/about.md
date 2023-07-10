@@ -53,7 +53,7 @@ For a complete list, please click the `Publications` button on the top menu.
 - [Stochastic Boolean satisfiability: Decision procedures, generalization, and applications](http://dx.doi.org/10.6342%2fNTU202101397) (Doctoral dissertation)
   - An [author copy](../files/Nian-Ze.Lee.Dissertation-secure.pdf) of the dissertation
   - A supplementary [reproduction package](https://doi.org/10.5281/zenodo.5084147) for the evaluation
-- [Dependency stochastic Boolean satisfiability: A logical formalism for NEXPTIME decision problems with uncertainty](https://ojs.aaai.org/index.php/AAAI/article/view/16506) (AAAI)
+- [Dependency stochastic Boolean satisfiability: A logical formalism for NEXPTIME decision problems with uncertainty](https://doi.org/10.1609/aaai.v35i5.16506) (AAAI)
 
 ### 2020
 
