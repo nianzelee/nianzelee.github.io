@@ -32,7 +32,8 @@ To know more about me, please take a look at my [CV](../files/Nian-Ze.Lee.CV.pdf
 ## Recent Publications
 
 The following are some of my recent publications.
-For a complete list, please click the `Publications` button on the top menu.
+Please refer to my [publication list](../files/Nian-Ze.Lee.Publications.pdf)
+or click the `Publications` button on the top menu for the complete list.
 
 ### 2023
 
