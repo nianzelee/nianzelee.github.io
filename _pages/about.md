@@ -10,11 +10,13 @@ redirect_from:
 
 ## News
 
+- 2023-12-22: Our paper _Btor2-Cert: A certifying
+  hardware-verification framework using software analyzers_ is accepted at [TACAS 2024](https://www.etaps.org/2024/conferences/tacas/).
 - 2023-09-11: I organized the [8th International Workshop on CPAchecker](https://cpa.sosy-lab.org/2023/)
-- 2023-09-04: I mentored a [project](https://www.sosy-lab.org/gsoc/gsoc2023.php) in the [Google Summer of Code 2023](https://summerofcode.withgoogle.com/)
-- 2023-07-06: Our paper [_Interpolation and SAT-based model checking revisited: Adoption to software verification_](https://doi.org/10.48550/arXiv.2208.05046) is accepted by [_Journal of Automated Reasoning_](https://www.springer.com/journal/10817)
-- 2023-07-06: Our paper [_CPA-DF: A tool for configurable interval analysis to boost program verification_](https://www.sosy-lab.org/research/pub/2023-ASE.CPA-DF_A_Tool_for_Configurable_Interval_Analysis_to_Boost_Program_Verification.pdf) is accepted at [ASE 2023](https://conf.researchr.org/home/ase-2023)
-- 2022-12-23: Our paper [_Bridging hardware and software analysis with Btor2C: A word-level-circuit-to-C translator_](https://doi.org/10.1007/978-3-031-30820-8_12) is accepted at [TACAS 2023](https://www.etaps.org/2023/conferences/)
+- 2023-09-04: I mentored a [project](https://www.sosy-lab.org/gsoc/gsoc2023.php) in the [Google Summer of Code 2023](https://summerofcode.withgoogle.com/).
+- 2023-07-06: Our paper [_Interpolation and SAT-based model checking revisited: Adoption to software verification_](https://doi.org/10.48550/arXiv.2208.05046) is accepted by [_Journal of Automated Reasoning_](https://www.springer.com/journal/10817).
+- 2023-07-06: Our paper [_CPA-DF: A tool for configurable interval analysis to boost program verification_](https://doi.org/10.1109/ASE56229.2023.00213) is accepted at [ASE 2023](https://conf.researchr.org/home/ase-2023).
+- 2022-12-23: Our paper [_Bridging hardware and software analysis with Btor2C: A word-level-circuit-to-C translator_](https://doi.org/10.1007/978-3-031-30820-8_12) is accepted at [TACAS 2023](https://www.etaps.org/2023/conferences/).
 
 ## Short Biography
 
