@@ -10,13 +10,15 @@ redirect_from:
 
 ## News
 
+- 2024-02-27: Our paper _Augmenting interpolation-based model checking with auxiliary
+  invariants_ is accepted at [SPIN 2024](https://spin-web.github.io/SPIN2024/).
 - 2023-12-22: Our paper _Btor2-Cert: A certifying
   hardware-verification framework using software analyzers_ is accepted at [TACAS 2024](https://www.etaps.org/2024/conferences/tacas/).
+- 2023-12-05: Our verifier [CPV](https://gitlab.com/sosy-lab/software/cpv) ranks 6th (out of 26 tools) as a first-time participant in the category _ReachSafety_ at [SV-COMP 2024](https://sv-comp.sosy-lab.org/2024/).
 - 2023-09-11: I organized the [8th International Workshop on CPAchecker](https://cpa.sosy-lab.org/2023/).
 - 2023-09-04: I mentored a [project](https://www.sosy-lab.org/gsoc/gsoc2023.php) in the [Google Summer of Code 2023](https://summerofcode.withgoogle.com/).
 - 2023-07-06: Our paper [_Interpolation and SAT-based model checking revisited: Adoption to software verification_](https://doi.org/10.48550/arXiv.2208.05046) is accepted by [_Journal of Automated Reasoning_](https://www.springer.com/journal/10817).
 - 2023-07-06: Our paper [_CPA-DF: A tool for configurable interval analysis to boost program verification_](https://doi.org/10.1109/ASE56229.2023.00213) is accepted at [ASE 2023](https://conf.researchr.org/home/ase-2023).
-- 2022-12-23: Our paper [_Bridging hardware and software analysis with Btor2C: A word-level-circuit-to-C translator_](https://doi.org/10.1007/978-3-031-30820-8_12) is accepted at [TACAS 2023](https://www.etaps.org/2023/conferences/).
 
 ## Short Biography
 
