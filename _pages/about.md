@@ -23,7 +23,7 @@ redirect_from:
 ## Short Biography
 
 **I am on the job market!
-Here are my [CV](../files/Nian-Ze.Lee.CV.pd) and [publication list](../files/Nian-Ze.Lee.Publications.pdf).**
+Here are my [CV](../files/Nian-Ze.Lee.CV.pdf) and [publication list](../files/Nian-Ze.Lee.Publications.pdf).**
 
 I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
 I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
