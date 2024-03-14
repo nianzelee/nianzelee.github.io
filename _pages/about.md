@@ -22,6 +22,9 @@ redirect_from:
 
 ## Short Biography
 
+**I am on the job market!
+Here are my [CV](../files/Nian-Ze.Lee.CV.pd) and [publication list](../files/Nian-Ze.Lee.Publications.pdf).**
+
 I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
 I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
 My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
@@ -32,8 +35,6 @@ During my doctoral study, I was
 - a visiting student on DAAD scholarship at [LMU Munich](https://www.lmu.de/en/), Germany (September 2019 - August 2020),
 - an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/), Tokyo, Japan (September 2018 - February 2019), and
 - a research intern at [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/), New York, U.S.A. (July - October 2016).
-
-To know more about me, please take a look at my [CV](../files/Nian-Ze.Lee.CV.pdf).
 
 ## Recent Publications
 
@@ -78,6 +79,8 @@ or click the `Publications` button on the top menu for the complete list.
 I am the primary designer and maintainer of the following projects:
 
 - [`Btor2C`](https://gitlab.com/sosy-lab/software/btor2c): a translator from the word-level modeling language Btor2 to the programming language C
+- [`Btor2-Cert`](https://gitlab.com/sosy-lab/software/btor2-cert): a certifying hardware verifier using software analyzers
+- [`CPV`](https://gitlab.com/sosy-lab/software/cpv): a circuit-based program verifier
 - [`reSSAT`, `erSSAT`](https://github.com/NTU-ALComLab/ssatABC): solvers for the random-exist and exist-random quantified fragments of stochastic Boolean satisfiability
 - [`ssat-benchmarks`](https://github.com/NTU-ALComLab/ssat-benchmarks): a collection of stochastic Boolean satisfiability formulas for benchmarking (**Contributions Welcome!**)
 - [`TLCollapseVerify`](https://github.com/NTU-ALComLab/TLCollapseVerify): collapse operation and efficient verification of threshold logic in a synthesis/verification tool [`ABC`](https://github.com/berkeley-abc/abc)
