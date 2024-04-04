@@ -10,6 +10,8 @@ redirect_from:
 
 ## News
 
+- 2024-03-28: Our grant proposal is approved by the German Research Foundation (DFG)!
+  We are hiring a Ph.D. student to work on [bridging hardware and software formal verification](files/2024-04-07_COOP24_Bridging_Hardware_Software_Formal_Verification_Nian-Ze.pdf)!
 - 2024-02-27: Our paper _Augmenting interpolation-based model checking with auxiliary
   invariants_ is accepted at [SPIN 2024](https://spin-web.github.io/SPIN2024/).
 - 2023-12-22: Our paper _Btor2-Cert: A certifying
