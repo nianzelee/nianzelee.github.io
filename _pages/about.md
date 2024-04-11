@@ -13,9 +13,9 @@ redirect_from:
 - 2024-03-28: Our grant proposal is approved by the German Research Foundation (DFG)!
   We are hiring a Ph.D. student to work on [bridging hardware and software formal verification](files/2024-04-07_COOP24_Bridging_Hardware_Software_Formal_Verification_Nian-Ze.pdf).
 - 2024-02-27: Our paper _Augmenting interpolation-based model checking with auxiliary
-  invariants_ is accepted at [SPIN 2024](https://spin-web.github.io/SPIN2024/) and receives the _Best Paper Award_.
+  invariants_ is accepted at [SPIN 2024](https://spin-web.github.io/SPIN2024/) and receives the **Best Paper Award**.
 - 2023-12-22: Our paper _Btor2-Cert: A certifying
-  hardware-verification framework using software analyzers_ is accepted at [TACAS 2024](https://www.etaps.org/2024/conferences/tacas/); its [reproduction package](https://zenodo.org/records/10548597) is awarded the _Distinguish Artifact Award_.
+  hardware-verification framework using software analyzers_ is accepted at [TACAS 2024](https://www.etaps.org/2024/conferences/tacas/); its [reproduction package](https://zenodo.org/records/10548597) is awarded the **Distinguish Artifact Award**.
 - 2023-12-05: Our verifier [CPV](https://gitlab.com/sosy-lab/software/cpv) ranks 6th (out of 26 tools) as a first-time participant in the category _ReachSafety_ at [SV-COMP 2024](https://sv-comp.sosy-lab.org/2024/).
 - 2023-09-11: I organized the [8th International Workshop on CPAchecker](https://cpa.sosy-lab.org/2023/).
 - 2023-09-04: I mentored a [project](https://www.sosy-lab.org/gsoc/gsoc2023.php) in the [Google Summer of Code 2023](https://summerofcode.withgoogle.com/).
