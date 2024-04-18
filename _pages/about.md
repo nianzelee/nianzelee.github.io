@@ -44,6 +44,7 @@ During my doctoral study, I was
 - an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/), Tokyo, Japan (September 2018 - February 2019), and
 - a research intern at [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/), New York, U.S.A. (July - October 2016).
 
+<!--
 ## Recent Publications
 
 The following are some of my recent publications.
@@ -81,6 +82,7 @@ or click the `Publications` button on the top menu for the complete list.
 
 - [Stability analysis for safety of automotive multi-product lines: A search-based approach](https://doi.org/10.1145/3321707.3321755) (GECCO)
   - Collaboration with Dr. Paolo Arcaini and Prof. Fuyuki Ishikawa from NII, and Dr. Shaukat Ali from Simula Research Laboratory
+-->
 
 ## Software Projects
 
