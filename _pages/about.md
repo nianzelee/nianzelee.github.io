@@ -10,6 +10,8 @@ redirect_from:
 
 ## News
 
+- 2024-04-15: Our paper _A transferability study of interpolation-based
+  hardware model checking to software verification_ is accepted at [FSE 2024](https://conf.researchr.org/home/fse-2024).
 - 2024-03-28: Our grant proposal is approved by the German Research Foundation (DFG)!
   We are hiring a Ph.D. student to work on [bridging hardware and software formal verification](files/2024-04-07_COOP24_Bridging_Hardware_Software_Formal_Verification_Nian-Ze.pdf).
 - 2024-02-27: Our paper _Augmenting interpolation-based model checking with auxiliary
