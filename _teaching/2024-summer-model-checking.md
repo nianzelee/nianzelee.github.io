@@ -1,10 +1,10 @@
 ---
-title: "Algorithms for Model Checking, Winter 2023"
+title: "Algorithms for Model Checking, Summer 2024"
 collection: teaching
 type: "Graduate seminar"
-permalink: /teaching/2023-winter-model-checking
+permalink: /teaching/2024-summer-model-checking
 venue: "Institute for Informatics, LMU Munich"
-date: 2023-10-19
+date: 2024-04-18
 location: "Munich, Germany"
 ---
 
