@@ -8,6 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+**I am looking for prospective Ph.D. students to work on the verification of hardware and software systems, funded by the German Research Foundation (DFG). Please refer to the [slides](files/2024-04-07_COOP24_Bridging_Hardware_Software_Formal_Verification_Nian-Ze.pdf) for more information.**
+
+## Short Biography
+
+**I am on the academic job market!**
+Here are my
+
+- [CV](../files/Nian-Ze.Lee.CV.pdf)
+- [Publication list](../files/Nian-Ze.Lee.Publications.pdf)
+- [Research statement](../files/Nian-Ze.Lee.Research-Statement.pdf)
+- [Teaching experience](../files/Nian-Ze.Lee.Teaching.pdf)
+
+I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
+I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
+My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
+
 ## News
 
 - 2024-04-15: Our paper _A transferability study of interpolation-based
@@ -24,25 +40,14 @@ redirect_from:
 - 2023-07-06: Our paper [_Interpolation and SAT-based model checking revisited: Adoption to software verification_](https://doi.org/10.48550/arXiv.2208.05046) is accepted by [_Journal of Automated Reasoning_](https://www.springer.com/journal/10817).
 - 2023-07-06: Our paper [_CPA-DF: A tool for configurable interval analysis to boost program verification_](https://doi.org/10.1109/ASE56229.2023.00213) is accepted at [ASE 2023](https://conf.researchr.org/home/ase-2023).
 
-## Short Biography
-
-**I am on the academic job market!**
-Here are my
-
-- [CV](../files/Nian-Ze.Lee.CV.pdf)
-- [Publication list](../files/Nian-Ze.Lee.Publications.pdf)
-- [Teaching experience](../files/Nian-Ze.Lee.Teaching.pdf)
-
-I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
-I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
-My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
-
+<!--
 I enjoy doing research and collaborating with people from different countries.
 During my doctoral study, I was
 
 - a visiting student on DAAD scholarship at [LMU Munich](https://www.lmu.de/en/), Germany (September 2019 - August 2020),
 - an internship student at [National Institute of Informatics](https://www.nii.ac.jp/en/), Tokyo, Japan (September 2018 - February 2019), and
 - a research intern at [IBM T. J. Watson Research Center](https://www.research.ibm.com/labs/watson/), New York, U.S.A. (July - October 2016).
+-->
 
 <!--
 ## Recent Publications
