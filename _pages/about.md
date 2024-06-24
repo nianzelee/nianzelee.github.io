@@ -26,6 +26,8 @@ My research directions are the analysis and optimization of computing systems, w
 
 ## News
 
+- 2024-06-22: Our paper [_A transferability study of interpolation-based
+  hardware model checking to software verification_](https://www.sosy-lab.org/research/dar-ismc-transferability/) and its [reproduction package](https://doi.org/10.5281/zenodo.11070973) win the [ACM SIGSOFT Distinguished Paper Award](https://2024.esec-fse.org/info/awards#acm-sigsoft-distinguished-paper-award) and [Distinguished Artifact Award](https://2024.esec-fse.org/info/awards#distinguished-artifacts) at FSE 2024.
 - 2024-04-15: Our paper _A transferability study of interpolation-based
   hardware model checking to software verification_ is accepted at [FSE 2024](https://conf.researchr.org/home/fse-2024).
 - 2024-03-28: Our grant proposal is approved by the German Research Foundation (DFG)!
