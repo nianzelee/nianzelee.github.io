@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I will join the EE department at NTU as Assistant Professor from February 2025!**
+**I will join the EE department of National Taiwan University as Assistant Professor from February 2025!**
 
 - Information for prospective students: [slides](files/2024-09-27-EDA-Recruiting-Nian-Ze.pdf)
 
