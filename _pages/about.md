@@ -8,22 +8,25 @@ redirect_from:
   - /about.html
 ---
 
+**I will join the EE department at NTU as Assistant Professor from February 2025!**
+
+- Information for prospective students: [slides](files/2024-09-27-EDA-Recruiting-Nian-Ze.pdf)
+
 **I am looking for prospective Ph.D. students to work on the verification of hardware and software systems.
 The [project](https://gepris.dfg.de/gepris/projekt/536040111?language=en) is funded by the German Research Foundation (DFG). Please refer to the [slides](files/2024-04-07_COOP24_Bridging_Hardware_Software_Formal_Verification_Nian-Ze.pdf) for more information.**
 
 ## Short Biography
 
-**I am on the academic job market!**
-Here are my
+I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
+I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
+My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
+
+Here are my:
 
 - [CV](../files/Nian-Ze.Lee.CV.pdf)
 - [Publication list](../files/Nian-Ze.Lee.Publications.pdf)
 - [Research statement](../files/Nian-Ze.Lee.Research-Statement.pdf)
 - [Teaching experience](../files/Nian-Ze.Lee.Teaching.pdf)
-
-I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
-I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
-My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
 
 ## News
 
