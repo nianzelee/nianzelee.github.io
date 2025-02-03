@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**I will join the EE department of National Taiwan University as Assistant Professor from February 2025!**
+**I am looking for Ph.D., Master's, and Bachelor's students to work on formal methods!**
 
 - Information for prospective students: [slides](files/2024-09-27-EDA-Recruiting-Nian-Ze.pdf)
-
-**I am looking for prospective Ph.D. students to work on the verification of hardware and software systems.
-The [project](https://gepris.dfg.de/gepris/projekt/536040111?language=en) is funded by the German Research Foundation (DFG). Please refer to the [slides](files/2024-04-07_COOP24_Bridging_Hardware_Software_Formal_Verification_Nian-Ze.pdf) for more information.**
+- Ph.D. students may be enrolled at LMU Munich ([project](https://gepris.dfg.de/gepris/projekt/536040111?language=en) funded by DFG).
 
 ## Short Biography
 
-I am a postdoctoral researcher affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
+I am an [Assistant Professor](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627)
+at the Department of Electrical Engineering of National Taiwan University, Taiwan,
+and a "Gastprofessor" (Guest Professor) affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
 I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
 My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
 
@@ -30,11 +30,12 @@ Here are my:
 
 ## News
 
+- 2025-02-01: I joined National Taiwan University as an Assistant Professor.
+- 2025-01-23: I was appointed as a "Gastprofessor" (Guest Professor) at LMU Munich, Germany.
 - 2024-07-15: Our [FSE 2024](https://conf.researchr.org/home/fse-2024) paper [_A transferability study of interpolation-based hardware model checking for software verification_](https://doi.org/10.1145/3660797) and its [reproduction package](https://doi.org/10.5281/zenodo.11070973) won the [ACM SIGSOFT Distinguished Paper Award](https://2024.esec-fse.org/info/awards#acm-sigsoft-distinguished-paper-award) and [Best Artifact Award](https://2024.esec-fse.org/info/awards#distinguished-artifacts).
 - 2024-04-11: Our [TACAS 2024](https://www.etaps.org/2024/conferences/tacas/) paper [_Btor2-Cert: A certifying hardware-verification framework using software analyzers_](https://doi.org/10.1007/978-3-031-57256-2_7) won the **Distinguish Artifact Award** (cf. [reproduction package](https://doi.org/10.5281/zenodo.10548597)).
 - 2024-04-10: Our [SPIN 2024](https://spin-web.github.io/SPIN2024/) paper [_Augmenting interpolation-based model checking with auxiliary invariants_](https://doi.org/10.48550/arXiv.2403.07821) won the **Best Paper Award**.
 - 2024-03-28: Our grant proposal [_Bridging Hardware and Software Analysis_](https://gepris.dfg.de/gepris/projekt/536040111?language=en) was approved by the German Research Foundation (DFG)! See the [slides](files/2024-04-07_COOP24_Bridging_Hardware_Software_Formal_Verification_Nian-Ze.pdf) of my talk at [COOP 2024](https://coop.sosy-lab.org/2024/) for more details.
-- 2023-12-05: Our verifier [CPV](https://gitlab.com/sosy-lab/software/cpv) ranks 6th (out of 26 tools) as a first-time participant in the category _ReachSafety_ at [SV-COMP 2024](https://sv-comp.sosy-lab.org/2024/).
 
 ## Software Projects
 
