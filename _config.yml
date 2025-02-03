@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Nian-Ze Lee"
   avatar: "Nian-Ze.Lee.Photo.jpg"
-  bio: "Postdoctoral Researcher"
-  location: "Germany"
-  employer: "LMU Munich"
+  bio: "Assistant Professor"
+  location: "Taiwan"
+  employer: "National Taiwan University"
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=_8OD03gAAAAJ&hl=en"
-  email: "nian-ze.lee@sosy.ifi.lmu.de"
+  email: "nzlee@ntu.edu.tw"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
