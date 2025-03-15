@@ -10,7 +10,7 @@ redirect_from:
 
 **I am looking for Ph.D., Master's, and Bachelor's students to work on formal methods!**
 
-- Information for prospective students: [slides](files/2024-09-27-EDA-Recruiting-Nian-Ze.pdf)
+- Information for prospective students: [slides](../files/2025-02-24_EDA_Seminar_Nian-Ze.pdf)
 - Ph.D. students may be enrolled at LMU Munich ([project](https://gepris.dfg.de/gepris/projekt/536040111?language=en) funded by DFG).
 
 ## Short Biography
