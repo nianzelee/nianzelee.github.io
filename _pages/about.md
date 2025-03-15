@@ -10,14 +10,17 @@ redirect_from:
 
 **I am looking for Ph.D., Master's, and Bachelor's students to work on formal methods!**
 
-- Information for prospective students: [slides](../files/2025-02-24_EDA_Seminar_Nian-Ze.pdf)
+- Information for prospective students
+  - How to apply: [recruiting post](https://formace-lab.gitlab.io/webpage/posts/recruiting/)
+  - My recent talk at the EDA seminar: [slides](../files/2025-02-24_EDA_Seminar_Nian-Ze.pdf)
 - Ph.D. students may be enrolled at LMU Munich ([project](https://gepris.dfg.de/gepris/projekt/536040111?language=en) funded by DFG).
 
 ## Short Biography
 
 I am an [Assistant Professor](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627)
 at the Department of Electrical Engineering of National Taiwan University, Taiwan,
-and a "Gastprofessor" (Guest Professor) affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) at LMU Munich, Germany.
+leading [Formal Methods and Analysis for Computing and Engineering Laboratory](https://formace-lab.gitlab.io/webpage/) (ForMACE Lab),
+and a "Gastprofessor" (Guest Professor) affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) (SoSy-Lab) at LMU Munich, Germany.
 I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
 My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
 
@@ -58,4 +61,5 @@ I participate in the following projects:
 
 ## Contact
 
-Please visit my faculty webpage at NTUEE: https://www.ee.ntu.edu.tw/profile1.php?id=1090739
+Please visit my [faculty webpage](https://www.ee.ntu.edu.tw/profile1.php?id=1090739) at NTUEE and
+the webpage of my group, [ForMACE Lab](https://formace-lab.gitlab.io/webpage/).
