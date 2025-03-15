@@ -58,9 +58,4 @@ I participate in the following projects:
 
 ## Contact
 
-My email address: nian-ze.lee@sosy.ifi.lmu.de
-
-Please send me encrypted emails!
-
-My [GPG key](https://keys.openpgp.org/vks/v1/by-fingerprint/6211DD38D7BD0167253BB4F8EBA3A3F7F4F9BBEC) can be downloaded from the Keys OpenPGP server.
-Fingerprint: 6211 DD38 D7BD 0167 253B B4F8 EBA3 A3F7 F4F9 BBEC
+Please visit my faculty webpage at NTUEE: https://www.ee.ntu.edu.tw/profile1.php?id=1090739
