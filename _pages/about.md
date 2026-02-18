@@ -34,6 +34,7 @@ Here are my:
 ## News
 
 - 2026-02-21: I was invited to give a talk at [ISEC 2026](https://conf.researchr.org/home/isec-2026).
+- 2026-01-31: Our TACAS 2026 paper [_A case study in firmware verification: Applying formal methods to Intel TDX Module_](https://www.sosy-lab.org/research/tdx-module-firmware-verification/) (joint work with Intel and LMU Munich) is selected as a Distinguished Paper at [ETAPS](https://etaps.org/2026/programme/)!
 - 2025-08-01: I was appointed as a "Garmin Scholar" at NTU.
 - 2025-02-01: I joined National Taiwan University as an Assistant Professor.
 - 2025-01-23: I was appointed as a "Gastprofessor" (Visiting Professor) at LMU Munich, Germany.
