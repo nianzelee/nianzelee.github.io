@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am looking for Ph.D., Master's, and Bachelor's students interested in formal methods!**
+**I am looking for Ph.D., Master's, and Bachelor's students interested in formal methods to join [ForMACE Lab](https://formace-lab.gitlab.io/webpage/)!**
 
 - Information for prospective students
   - How to apply: [recruiting post](https://formace-lab.gitlab.io/webpage/posts/recruiting/)
