@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**I am looking for Ph.D., Master's, and Bachelor's students to work on formal methods!**
+**I am looking for Ph.D., Master's, and Bachelor's students interested in formal methods!**
 
 - Information for prospective students
   - How to apply: [recruiting post](https://formace-lab.gitlab.io/webpage/posts/recruiting/)
-  - My recent talk at the EDA seminar: [slides](../files/2025-02-24_EDA_Seminar_Nian-Ze.pdf)
+  - NTUEE undergraduate special-project briefing: [slides](https://formace-lab.gitlab.io/webpage/pdfs/2026-01-06_Special_Project_Briefing_Nian-Ze.pdf)
 - Ph.D. students may be enrolled at LMU Munich ([project](https://gepris.dfg.de/gepris/projekt/536040111?language=en) funded by DFG).
 
 ## Short Biography
@@ -20,7 +20,7 @@ redirect_from:
 I am an [Assistant Professor](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627)
 at the Department of Electrical Engineering of National Taiwan University, Taiwan,
 leading [Formal Methods and Analysis for Computing and Engineering Laboratory](https://formace-lab.gitlab.io/webpage/) (ForMACE Lab),
-and a "Gastprofessor" (Guest Professor) affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) (SoSy-Lab) at LMU Munich, Germany.
+and a "Gastprofessor" (Visiting Professor) affiliated with [Software and Computational Systems Lab](https://www.sosy-lab.org/) (SoSy-Lab) at LMU Munich, Germany.
 I obtained a Ph.D. degree in Electronics Engineering from National Taiwan University in 2021.
 My research directions are the analysis and optimization of computing systems, with a focus on formal methods.
 
@@ -33,8 +33,10 @@ Here are my:
 
 ## News
 
+- 2026-02-21: I was invited to give a talk at [ISEC 2026](https://conf.researchr.org/home/isec-2026).
+- 2025-08-01: I was appointed as a "Garmin Scholar" at NTU.
 - 2025-02-01: I joined National Taiwan University as an Assistant Professor.
-- 2025-01-23: I was appointed as a "Gastprofessor" (Guest Professor) at LMU Munich, Germany.
+- 2025-01-23: I was appointed as a "Gastprofessor" (Visiting Professor) at LMU Munich, Germany.
 - 2024-07-15: Our [FSE 2024](https://conf.researchr.org/home/fse-2024) paper [_A transferability study of interpolation-based hardware model checking for software verification_](https://doi.org/10.1145/3660797) and its [reproduction package](https://doi.org/10.5281/zenodo.11070973) won the [ACM SIGSOFT Distinguished Paper Award](https://2024.esec-fse.org/info/awards#acm-sigsoft-distinguished-paper-award) and [Best Artifact Award](https://2024.esec-fse.org/info/awards#distinguished-artifacts).
 - 2024-04-11: Our [TACAS 2024](https://www.etaps.org/2024/conferences/tacas/) paper [_Btor2-Cert: A certifying hardware-verification framework using software analyzers_](https://doi.org/10.1007/978-3-031-57256-2_7) won the **Distinguish Artifact Award** (cf. [reproduction package](https://doi.org/10.5281/zenodo.10548597)).
 - 2024-04-10: Our [SPIN 2024](https://spin-web.github.io/SPIN2024/) paper [_Augmenting interpolation-based model checking with auxiliary invariants_](https://doi.org/10.48550/arXiv.2403.07821) won the **Best Paper Award**.
