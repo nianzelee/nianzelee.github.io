@@ -28,7 +28,6 @@ Here are my:
 
 - [CV](../files/Nian-Ze.Lee.CV.pdf)
 - [Publication list](../files/Nian-Ze.Lee.Publications.pdf)
-- [Research statement](../files/Nian-Ze.Lee.Research-Statement.pdf)
 - [Teaching experience](../files/Nian-Ze.Lee.Teaching.pdf)
 
 ## News
